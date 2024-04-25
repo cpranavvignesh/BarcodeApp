@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera App</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="default_message">Qr Code Not Detected or in Unsupported Format</string>
+</resources>
